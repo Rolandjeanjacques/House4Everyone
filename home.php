@@ -197,7 +197,7 @@
 	</div><!--- End Jumbotron -->
 	<div class="col-12 narrow text-center">
 		<p class="lead">Want to learn more about H4EO?</p>
-		<a class = "btn btn-secondary btn-md" href = "index.html#contacts">Learn More</a>
+		<a class = "btn btn-secondary btn-md" href = "home.php#contacts">Learn More</a>
 	</div>
 	</div>
 <!--- End Clients Section-->

@@ -32,9 +32,6 @@
 			 <li class = "nav-item">
 				 <a class = "nav-link" href = "home.php#home">Home</a>
 			 </li>
-			 <li class = "nav-item">
-					<a class = "nav-link" href = "home.php#bookings">Registration</a>
-			</li>
 			<li class = "nav-item">
 						<a class = "nav-link" href = "home.php#features">Feedback</a>
 					</li>
@@ -47,6 +44,10 @@
 							<li class = "nav-item">
 									<a class = "nav-link" href = "home.php#contacts">Contacts</a>
 								</li>
+								</li>
+                                <li class ="nav-item">
+                                <a class="nav-link" href = "home.php?logout=true">Logout</a>
+                                </li>
 		 </ul>
 	 </div>
 </nav>
